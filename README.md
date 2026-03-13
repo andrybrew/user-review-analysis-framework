@@ -1,11 +1,3 @@
-# From User Feedback to Quality Actions: An Intelligent System with Multi-Stage LLM-Governed Reasoning
-
-This repository contains the dataset and source code for the paper:
-
-> **From User Feedback to Quality Actions: An Intelligent System with Multi-Stage LLM-Governed Reasoning**
-> 
-> Submitted to *Intelligent Systems with Applications* (ISWA), Elsevier.
-
 ## Overview
 
 This study presents an intelligent information processing system that transforms large-scale user feedback into structured quality improvement knowledge. The system integrates semantic topic modeling (BERTopic) with multi-stage large language model (LLM)-governed reasoning under human oversight. It operates through three processing stages:
